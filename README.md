@@ -7,14 +7,14 @@ El presente informe presenta los resultados más relevantes para el desarrollo d
 Se utilizo un diseño similar al enseñado en las entregas anteriores, pero este contaba con una mayor longitud.
  
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture1.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture1.png">
   <br><br>
   <b>Imagen 1: Vista en elevación del puente inicial.</b><br>
   <br><br>
  </p>
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture2.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture2.png">
   <br><br>
   <b>Imagen 2: Vista superior del puente.</b><br>
  </p>
@@ -22,7 +22,7 @@ Se utilizo un diseño similar al enseñado en las entregas anteriores, pero este
 Con este diseño inicial del puente, se logró cumplir con los requisitos de las combinaciones de carga de 1.4D y 1.2D+1.6L, con un peso total de 502 toneladas aproximadamente.
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture3.jpg">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture3.jpg">
   <br><br>
   <b>Imagen 3: Peso total del puente inicial.</b><br>
  </p>
@@ -30,14 +30,14 @@ Con este diseño inicial del puente, se logró cumplir con los requisitos de las
 A continuación, se muestran los factores de utilización de algunas barras del puente de reticulado junto con los desplazamientos nodales.
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture4.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture4.png">
   <br><br>
   <b>Imagen 4: Factores de utilización de algunas barras.</b><br>
   <br><br>
  </p>
  
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture5.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture5.png">
   <br><br>
   <b>Imagen 5: Desplazamientos nodales.</b><br>
  </p>
@@ -45,14 +45,14 @@ A continuación, se muestran los factores de utilización de algunas barras del 
 Se puede ver que en general los FU son muy bajos, por lo que se decidió disminuir el peso de las barras que contaban con un factor de utilización menor, para así disminuir el peso de la estructura y lograr valores de FU cercanos a 1. Para esto, se modificaron las secciones (perfiles) de estas barras, disminuyendo el peso total del puente, en donde se llegó a los siguientes resultados.
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture6.jpg">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture6.jpg">
   <br><br>
   <b>Imagen 6: Peso total del segundo diseño del puente.</b><br>
   <br><br>
  </p>
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture7.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture7.png">
   <br><br>
   <b>Imagen 7: Factores de utilización del segundo diseño del puente.</b><br>
  </p>
@@ -63,7 +63,7 @@ Se puede observar que el peso total disminuye notablemente y los FU aumentaron. 
 Luego de optimizar la mayor cantidad de barras, una por una, se logró obtener el siguiente modelo.
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture8.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture8.png">
   <br><br>
   <b>Imagen 8: Peso total del diseño final del puente.</b><br>
  </p>
@@ -71,14 +71,14 @@ Luego de optimizar la mayor cantidad de barras, una por una, se logró obtener e
 Con este, se obtuvieron los siguientes factores de utilización y deformaciones nodales.
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture9.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture9.png">
   <br><br>
   <b>Imagen 9: Factores de utilización del diseño final del puente.</b><br>
   <br><br>
  </p>
 
  <p align="center">
-  <img src="https://github.com/JoseLarenas/MCOC2021-P1/blob/main/Picture10.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P1/blob/main/Picture10.png">
   <br><br>
   <b>Imagen 10: Desplazamiento nodales.</b><br>
  </p>
